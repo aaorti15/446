@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\Q3\Q4\bin\Debug\Q4.exe.config
+C:\Users\aaron\source\repos\Q3\Q4\bin\Debug\Q4.exe
+C:\Users\aaron\source\repos\Q3\Q4\bin\Debug\Q4.pdb
+C:\Users\aaron\source\repos\Q3\Q4\obj\Debug\Q4.csproj.AssemblyReference.cache
+C:\Users\aaron\source\repos\Q3\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\Q3\Q4\obj\Debug\Q4.exe
+C:\Users\aaron\source\repos\Q3\Q4\obj\Debug\Q4.pdb
+C:\Users\aaron\OneDrive\Desktop\Q3Q4\Q3\Q4\bin\Debug\Q4.exe.config
+C:\Users\aaron\OneDrive\Desktop\Q3Q4\Q3\Q4\bin\Debug\Q4.exe
+C:\Users\aaron\OneDrive\Desktop\Q3Q4\Q3\Q4\bin\Debug\Q4.pdb
+C:\Users\aaron\OneDrive\Desktop\Q3Q4\Q3\Q4\obj\Debug\Q4.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Desktop\Q3Q4\Q3\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Desktop\Q3Q4\Q3\Q4\obj\Debug\Q4.exe
+C:\Users\aaron\OneDrive\Desktop\Q3Q4\Q3\Q4\obj\Debug\Q4.pdb
